@@ -652,11 +652,7 @@ a.discover-btn img {
 	transition: all 0.5s ease;
 }
 
-.navbar-fixed-top .navbar-nav > li > a.discover-btn:hover {
-	color: #ff7a59!important;
-	background: transparent;
-	border: 1px solid #ff7a59;
-}
+
 
 .navbar-fixed-top.opaque .navbar-nav > li > a.discover-btn {
 	color: #fff!important;
@@ -668,11 +664,7 @@ a.discover-btn img {
 	transition: all 0.5s ease;
 }
 
-.navbar-fixed-top.opaque .navbar-nav > li > a.discover-btn:hover {
-	border: 1px solid #ff7a59;
-	color: #ff7a59!important;
-	background: transparent;
-}
+
 
 /* ========================================================== */
 /* 			                03. FOOTER                        */
