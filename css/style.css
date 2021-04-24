@@ -249,6 +249,10 @@ iframe {
 	bottom: 0;
 }
 
+a.btn-red.small.scrool img {
+    width: 144px;
+}
+
 .section-white {
 	background: #fff;
 	padding: 90px 0 100px 0;
@@ -1672,7 +1676,7 @@ p.contact_success_box{
 
 .btn-blue.small, .btn-blue-line.small, .btn-red.small, .btn-red-line.small, .btn-white.small, .btn-white-border.small {
 	font-size: 16px;
-	padding: 14px 20px;
+	padding: 6px 20px;
 }
 
 .btn-red-line {
